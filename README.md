@@ -14,7 +14,7 @@ Your submission must satisfy the following requirements:
 (['func1', 'func2', ...], {'class1': {'attrs': {'member_var1', 'member_var2', 'member_var3', ...}, 'funcs': {'member_func1', 'member_func1', ...}, ...},
 ```
 * R9: If no member variable is available in a class, the corresponding value of `attrs` should be an empty set.
-* R10: If no member functions is available in a class, the corresponding value of `funcs` should be an empty list.
+* R10: If no member functions is available in a class, the corresponding value of `funcs` should be an empty set.
 
 
 
